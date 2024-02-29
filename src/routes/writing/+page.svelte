@@ -6,6 +6,7 @@
 
 <Seo
   title="Writing"
+  description="A collection of my writing, including blog posts, papers, and talks."
 />
 
 <section class="layout-md py-12">
