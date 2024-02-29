@@ -1,5 +1,0 @@
-# John Hannebery
-
-## About Me
-
-
