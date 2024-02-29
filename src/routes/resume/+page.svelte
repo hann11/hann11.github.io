@@ -8,7 +8,6 @@
   description="Applied scientist and software engineer."
 />
 
-
 <section class="layout-md py-12">
   <h2 class="heading2">Professional Experience</h2>
 
@@ -18,8 +17,7 @@
     url="https://sportsbet.com.au/"
     dates="June 2020 – Current"
     location="Melbourne, Australia"
-  >
-  </Workplace>
+  />
 </section>
 
 <section class="layout-md">
@@ -29,14 +27,18 @@
     <div class="flex justify-between items-end">
       <h3 class="text-black text-lg">The University of Melbourne</h3>
     </div>
-    <p class="byline">MSc in Operations Research, School of Mathematics and Statistics</p>
+    <p class="byline">
+      MSc in Operations Research, School of Mathematics and Statistics
+    </p>
   </div>
 
   <div class="mb-4">
     <div class="flex justify-between items-end">
       <h3 class="text-black text-lg">Monash University</h3>
     </div>
-    <p class="byline">BSc & BCom, Applied Mathematics, Computer Science, Finance</p>
+    <p class="byline">
+      BSc & BCom, Applied Mathematics, Computer Science, Finance
+    </p>
   </div>
 
   <h4 class="font-medium mt-4 mb-1">Technical coursework:</h4>
@@ -54,9 +56,7 @@
   </ul>
 </section>
 
-
 <style lang="postcss">
-
   ul {
     @apply list-disc pl-7 marker:text-neutral-400;
   }

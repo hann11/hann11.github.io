@@ -7,7 +7,9 @@
   <div class="row">
     <span>Email</span>
     <hr />
-    <a class="link" href="mailto:johnhannebery@gmail.com">johnhannebery@gmail.com</a>
+    <a class="link" href="mailto:johnhannebery@gmail.com"
+      >johnhannebery@gmail.com</a
+    >
   </div>
 </footer>
 
