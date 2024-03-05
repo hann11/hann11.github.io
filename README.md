@@ -2,6 +2,16 @@
 
 Personal Website
 
-Inspired by Eric Zhang
+To run prettier, use the following command:
+
+```bash
+npx prettier --write .
+```
+
+To lint, run
+
+```bash
+npx run lint
+```
 
 ...

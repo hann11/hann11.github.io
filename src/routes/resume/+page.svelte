@@ -8,7 +8,7 @@
   description="Applied scientist and software engineer."
 />
 
-<section class="layout-md py-12">
+<section class="layout-md py-2">
   <h2 class="heading2">Professional Experience</h2>
 
   <Workplace
@@ -27,21 +27,17 @@
     <div class="flex justify-between items-end">
       <h3 class="text-black text-lg">The University of Melbourne</h3>
     </div>
-    <p class="byline">
-      MSc in Operations Research, School of Mathematics and Statistics
-    </p>
+    <p class="byline">MSc, Operations Research</p>
   </div>
 
   <div class="mb-4">
     <div class="flex justify-between items-end">
       <h3 class="text-black text-lg">Monash University</h3>
     </div>
-    <p class="byline">
-      BSc & BCom, Applied Mathematics, Computer Science, Finance
-    </p>
+    <p class="byline">BSc & BCom, Applied Mathematics and Computer Science</p>
   </div>
 
-  <h4 class="font-medium mt-4 mb-1">Technical coursework:</h4>
+  <h4 class="font-medium mt-4 mb-1">Graduate technical coursework:</h4>
   <ul>
     <li>Approximation Algorithms & Heuristics (MAST90098)</li>
     <li>Statistical Machine Learning (COMP90051)</li>
